@@ -1,0 +1,39 @@
+{
+    "news":[
+        {
+        "title": "New JavaScript Framework Released",
+        "description": "A new JavaScript framework is taking the web development world by storm.",
+        "date": "2024-09-24T10:00:00Z",
+        "content": "Developers across the globe are excited about the release of a new JavaScript framework...",
+        "author": "John Doe"
+        },
+        {
+        "title": "AI Breakthrough in Natural Language Processing",
+        "description": "Researchers have made significant progress in natural language understanding.",
+        "date": "2024-09-23T14:30:00Z",
+        "content": "A new AI model has demonstrated unprecedented understanding of human language...",
+        "author": "Jane Smith"
+        },
+        {
+        "title": "Major Security Flaw Discovered in Popular Software",
+        "description": "A critical vulnerability has been found in widely-used enterprise software.",
+        "date": "2024-09-22T09:15:00Z",
+        "content": "Cybersecurity experts have discovered a major flaw in a popular enterprise application...",
+        "author": "Alex Johnson"
+        },
+        {
+        "title": "New Electric Car Model Launches",
+        "description": "The latest model in electric vehicles has been released.",
+        "date": "2024-09-21T08:45:00Z",
+        "content": "The newest electric car model promises improved range and faster charging...",
+        "author": "Emily Davis"
+        },
+        {
+        "title": "Climate Change Summit Yields Promising Agreements",
+        "description": "World leaders have reached significant agreements at the climate summit.",
+        "date": "2024-09-20T13:00:00Z",
+        "content": "After lengthy negotiations, several countries have committed to more aggressive climate goals...",
+        "author": "Michael Brown"
+        }
+    ]
+}
